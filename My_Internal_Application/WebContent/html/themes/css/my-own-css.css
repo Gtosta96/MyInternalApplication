@@ -1,0 +1,35 @@
+.table-negociacao {
+	margin: 0 auto;
+}
+
+table.table-negociacao, .table-negociacao thead th{
+	border:1px solid black;
+}
+
+.table-negociacao thead{
+    text-align: center;
+}
+
+.table-negociacao tbody{
+	color: white;
+	height: auto;
+}
+
+.table-negociacao td {
+	background-color:#2196F3;
+    width: 100px;
+}
+
+.grid-two, .grid-three {
+	float: left;
+	text-align: center;
+	height: 20%;
+}
+
+.grid-two {
+	width:50%;
+}
+
+.grid-three {
+	width:33%;
+}
